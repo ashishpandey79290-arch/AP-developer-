@@ -1,0 +1,6 @@
+{
+  "name": "TaskSecure",
+  "description": "Secure task management platform with AES-256 encryption visual indicators, password strength account registration, and secure workflow board.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
